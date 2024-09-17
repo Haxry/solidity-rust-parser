@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/rrevenantt/antlr4rust/releases/tag/antlr4-4.8-2-Rust-0.2
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/206076919/c5e63400-4ed9-11eb-9c83-d5e1a9e06e58?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240826T111300Z&X-Amz-Expires=300&X-Amz-Signature=44f75c99d9bf52d8e2496b54b9c84b0e57fc701ddd4b249515e062d233fd9346&X-Amz-SignedHeaders=host&actor_id=145403921&key_id=0&repo_id=206076919&response-content-disposition=attachment%3B%20filename%3Dantlr4-4.8-2-SNAPSHOT-complete.jar&response-content-type=application%2Foctet-stream
