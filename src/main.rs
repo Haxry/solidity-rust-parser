@@ -13,10 +13,19 @@ mod antlr {
             pub mod soliditylexer;
             pub mod solidityparser;
             pub mod soliditylistener;
+            pub mod solidityvisitor;
+            pub mod solidity_tokens;
+            
         }
     }
 }
 
+mod ast{
+    pub mod ASTBuilder;
+    pub mod ast_types;
+    pub mod types;
+    pub mod tokens;
+}
 use crate::antlr::gen_output::antlr::{soliditylexer, solidityparser};
 
 #[macro_use]
@@ -56,4 +65,5 @@ fn main() {
 
     println!("programme end");
 }
+
 
